@@ -1,0 +1,3 @@
+/home/malika/Documents/MyProjects/VS_Code/Cpp/OpenCv_tutorials/OpenCv1/build/CMakeFiles/rebuild_cache.dir
+/home/malika/Documents/MyProjects/VS_Code/Cpp/OpenCv_tutorials/OpenCv1/build/CMakeFiles/OpenCv1.dir
+/home/malika/Documents/MyProjects/VS_Code/Cpp/OpenCv_tutorials/OpenCv1/build/CMakeFiles/edit_cache.dir

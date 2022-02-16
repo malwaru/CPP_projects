@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/malika/Documents/MyProjects/VS_Code/Cpp/OpenCv_tutorials/OpenCv1/build",
+  "command": "/usr/bin/c++   -isystem /usr/include/opencv  -g   -o CMakeFiles/OpenCv1.dir/OpenCv1.cpp.o -c /home/malika/Documents/MyProjects/VS_Code/Cpp/OpenCv_tutorials/OpenCv1/OpenCv1.cpp",
+  "file": "/home/malika/Documents/MyProjects/VS_Code/Cpp/OpenCv_tutorials/OpenCv1/OpenCv1.cpp"
+}
+]
