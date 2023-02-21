@@ -1,0 +1,10 @@
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+*.json
+*.cmake
+CMakeFiles/  
+cmake_install.cmake
+Makefile
+

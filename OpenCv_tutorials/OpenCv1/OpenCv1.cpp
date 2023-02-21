@@ -29,6 +29,21 @@ Step 4 : Type "make"
          After this all the exceutbales are created in this case the name of the exceutable is also Opencv1
 Step 5 : Type "./OpenCv1"
 
+
+If there are import errors for unsing opencv
+follow the link below 
+
+https://girish-ajay.medium.com/installing-opencv-in-linux-and-configuration-with-visual-studio-code-9dd668275d5b
+
+in essense 
+1. press ctrl+shift+p
+2. go to edit confifguatin setting 
+3. add    "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/opencv4/**"
+            ],
+
+
 */
 
 int main(int argc, char** argv )
