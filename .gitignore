@@ -7,4 +7,6 @@ Makefile
 CMakeFiles/  
 cmake_install.cmake
 Makefile
+*/build/*
+*/.vscode/*
 
